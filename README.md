@@ -44,3 +44,9 @@ git clone https://github.com/YOUR_USERNAME/react-tutorials.git
 cd react-tutorials
 npm install
 npm run dev
+✍️ Author
+Satyajeeth Ophir Peruka
+Coding enthusiast and full stack developer in training.
+🌐 sopcodes.in
+📌 Note
+This repo is for educational purposes only — the code is constantly evolving as I learn more.
