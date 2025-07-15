@@ -1,12 +1,92 @@
-# React + Vite
+# ⚛️ React Learning Journey — By Satyajeeth Ophir Peruka
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository tracks my **complete React learning journey from scratch**.  
+I'm learning React step-by-step using **Vite**, **Tailwind CSS**, and **Git** for version control.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Purpose
 
-## Expanding the ESLint configuration
+This repo is purely for:
+- Practicing and understanding React core concepts
+- Building small practice projects and components
+- Experimenting with tools like Tailwind CSS and sessionStorage
+- Tracking my daily learning progress with commits
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React** (via Vite)
+- 🎨 **Tailwind CSS**
+- 🧠 **JavaScript ES6+**
+- 🔃 **Git & GitHub**
+- ⚡ **Vite**
+
+---
+
+## ✅ What I’ve Covered So Far
+
+- [x] React setup with Vite  
+- [x] JSX and Functional Components  
+- [x] Props and useState  
+- [x] Events and Conditional Rendering  
+- [x] Lists and Keys  
+- [x] Forms (Controlled Components)  
+- [x] useEffect  
+- [x] Tailwind CSS Integration  
+- [ ] React Router (Coming Next)  
+- [ ] sessionStorage (Coming Next)
+
+---
+
+## 📦 Project Folder Structure
+
+src/
+├── components/
+│ ├── Header.jsx
+│ ├── Hero.jsx
+│ ├── Skills.jsx
+│ └── Footer.jsx
+├── App.jsx
+├── main.jsx
+├── index.css
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ To Run This Project
+
+```bash
+git clone https://github.com/YOUR_USERNAME/react-tutorials.git
+cd react-tutorials
+npm install
+npm run dev
+
+✍️ Author
+Satyajeeth Ophir Peruka
+Passionate learner | Coder | Innovator | Future Full Stack Developer
+🌐 sopcodes.in
+
+📌 Note
+This is a learning repo — code may be rough, experimental, or incomplete in some places.
+It will be continuously improved as I learn more.
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Next Step:
+
+1. Save the above content in your project root as `README.md`.
+2. Then run:
+
+```bash
+git add README.md
+git commit -m "Added README.md for React learning repo"
+git push
